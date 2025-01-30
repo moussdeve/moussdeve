@@ -2,7 +2,7 @@
 - 🚀 Software Engineer | Problem Solver | Tech Enthusiast
 
 - 👨‍🎓 Computer Science Graduate | Passionate about clean code & scalable solutions
-- 💻 Specializing in Java | JavaFX | Python | C/C++ | C# | .NET Entity Framework| Full Stack Development
+- 💻 Specializing in Java | JavaFX | Python | C/C++ | C# | .NET Entity Framework | Full Stack Development
 - 🔍 Exploring Cloud Computing | Distributed Systems | AI | Web Development | Video Creation/Editing
 - 📌 Open to collaborations & exciting opportunities
 - 📫 Reach me at: moussdeve@gmail.com
