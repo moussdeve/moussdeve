@@ -4,6 +4,7 @@
 - 👨‍🎓 Computer Science Graduate | Passionate about clean code & scalable solutions
 - 💻 Specializing in Java | JavaFX | Python | C# | .NET Entity Framework | Full Stack Development
 - 🔍 Exploring Cloud Computing | Distributed Systems | AI | Web Development | Video Creation/Editing
+- - Spring Boot | Angular | MySQL
 - 📌 Open to collaborations & exciting opportunities
 - 📫 Reach me at: moussdeve@gmail.com
 
